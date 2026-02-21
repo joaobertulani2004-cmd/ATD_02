@@ -1,20 +1,20 @@
 {
     "42": {
-        "mean_reward": -93.30616675517908,
-        "std_reward": 18.812763543096242,
-        "mean_length": 728.25,
-        "std_length": 373.315533429832
+        "mean_reward": -84.8180864565146,
+        "std_reward": 22.979709932472527,
+        "mean_length": 873.8,
+        "std_length": 300.46773537270184
     },
     "67": {
-        "mean_reward": -134.76008601923382,
-        "std_reward": 53.26808430449656,
-        "mean_length": 758.7,
-        "std_length": 369.5339091341957
+        "mean_reward": -109.27635461639412,
+        "std_reward": 19.850097430359167,
+        "mean_length": 875.4,
+        "std_length": 296.6515464311622
     },
     "136": {
-        "mean_reward": -126.03756224162812,
-        "std_reward": 21.10859813494591,
-        "mean_length": 838.2,
-        "std_length": 324.26865405092735
+        "mean_reward": -154.17304864160656,
+        "std_reward": 47.59113479921737,
+        "mean_length": 792.9,
+        "std_length": 338.50788764813154
     }
 }
